@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://cristalivia.github.io/vstravel-frontend-project/)
+
 # VSTravel
 
 VSTravel is a front-end travel booking website built with HTML, CSS, and JavaScript. 
