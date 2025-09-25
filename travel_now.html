@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Travel Now | VSTravel</title>
+  <link rel="stylesheet" href="css/travel_now.css" />
+  <script src="js/script.js" defer></script>
+</head>
+<body>
+
+  <div id="global-header"></div>
+  <section class="travel-hero">
+      <div class="overlay"></div>
+        <h1 class="hero-title">Travel Now</h1>
+  </section>
+
+  <section class="travel-booking">
+    <div class="booking-benefit">
+      <p>Whether you're planning a family holiday, romantic getaway, or solo adventure, 
+        VSTravel is here to make every trip unforgettable. 
+        Experience a smooth and exciting journey by booking your next adventure with VSTravel, 
+        <strong>where you can explore more and worry less.</strong>
+      </p>
+      <ul>
+        <li>✅ All-inclusive tour packages</li>
+        <li>✅ Flexible travel dates</li>
+        <li>✅ Easy online booking & secure payment</li>
+        <li>✅ Competitive prices</li>
+        <li>✅ 24/7 customer support</li>
+        <li>✅ Trusted by thousands of happy travelers</li>
+        <li>✅ Assistance with visa applications and travel insurance</li>
+      </ul>
+    </div>
+
+    <div class="booking-form-box">
+      <h2>Book Your Trip Now</h2>
+      <form id="tripForm">
+        <div class="form-group">
+          <label for="fullname">Full Name</label>
+          <input type="text" id="fullname"  />
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone Number</label>
+          <input type="number" id="phone" />
+        </div>
+        <div class="form-group">
+          <label for="departure">Departure Date</label>
+          <input type="date" id="departure"  />
+        </div>
+        <div class="form-group">
+          <label for="return">Return Date</label>
+          <input type="date" id="return"  />
+        </div>
+        <div class="form-group">
+          <label for="participant">Total Participant(s)</label>
+          <input type="number" id="participant"  />
+        </div>
+        <div class="form-action">
+          <button type="submit">Submit Form</button>
+        </div>
+        <p id="error-msg" class="error-msg"></p>
+      </form>
+    </div>
+  </section>
+
+  <div id="global-footer"></div>
+
+</body>
+</html>
