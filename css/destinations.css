@@ -126,7 +126,7 @@ body {
 
 .destinations-hero {
   position: relative;
-  background: url('../../assets/header/destinations.jpg') center/cover no-repeat;
+  background: url('assets/header/destinations.jpg') center/cover no-repeat;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -541,4 +541,5 @@ body {
     width: 100%;
     max-width: 350px;
   }
+
 }
