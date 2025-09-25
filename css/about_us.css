@@ -126,7 +126,7 @@ body {
 
 .about-hero {
   position: relative;
-  background: url('../../assets/header/aboutus.jpeg') center/cover no-repeat;
+  background: url('assets/header/aboutus.jpeg') center/cover no-repeat;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -798,3 +798,4 @@ body {
     padding: 0 1rem;
   }
 }
+
