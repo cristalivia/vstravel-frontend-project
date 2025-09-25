@@ -127,7 +127,7 @@ body {
 
 .contact-hero {
   position: relative;
-  background: url('../../assets/header/contactus.jpg') center/cover no-repeat;
+  background: url('assets/header/contactus.jpg') center/cover no-repeat;
   background-size: cover;
   background-position: center;
   height: 300px;
@@ -311,3 +311,4 @@ body {
     align-items: center;
   }
 }
+
