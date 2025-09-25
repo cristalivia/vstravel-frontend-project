@@ -125,7 +125,7 @@ body {
 }
 
 .home-hero {
-  background: url('../../assets/header/home.jpg') center/cover no-repeat;
+  background: url('assets/header/home.jpg') center/cover no-repeat;
   color: white;
   height: 90vh;
   text-align: center;
@@ -340,3 +340,4 @@ body {
 .destination-dots .dot.active {
   background-color: #2E354E;
 }
+
