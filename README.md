@@ -3,7 +3,7 @@
 # VSTravel
 
 VSTravel is a front-end travel booking website built with HTML, CSS, and JavaScript. 
-This project was created as a college assignment to practice front-end web development.
+It provides users with a simple interface to browse destinations, discover travel packages, and submit simulated booking requests through an interactive form.
 
 ## Features
 - **Home Page**: Showcasing travel information  
